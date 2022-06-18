@@ -2,7 +2,7 @@
 	"name": "node-ts-boilerplate",
 	"version": "1.0.0",
 	"description": "",
-	"main": "index.js",
+	"main": "src/app.ts",
 	"scripts": {
 		"build": "npx tsc",
 		"start": "node dist/app.js",
